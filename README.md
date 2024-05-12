@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ishmaelhq
-- 👀 I’m interested in embedded systems 
-- 🌱 I’m currently learning how to program the STM32F051C6 microcontroller
-- 😄 Pronouns: He/His
+- I'm a second year Mechatronics engineering student with an interest in embedded systems, networks and cybersecurity.
+- Pronouns: He/His/Him
 
 <!---
 ishmaelhq/ishmaelhq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
