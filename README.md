@@ -1,4 +1,4 @@
-- I'm a second year Mechatronics engineering student with an interest in embedded systems, networks and cybersecurity.
+- I'm a final year Electrical engineering student with an interest in embedded systems, power systems, machines and electronics.
 
 <!---
 ishmaelhq/ishmaelhq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
